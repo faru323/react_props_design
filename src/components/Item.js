@@ -1,0 +1,87 @@
+const Item={
+    dataSource:[
+      {
+        key: '1',
+        id: '1',
+        username: 'Jett',
+        fullname: 'Sunwoo Han',
+        age: '20-25',
+        address: 'South Korea',
+      },
+      {
+        key: '2',
+        id: '2',
+        username: 'Sage',
+        fullname: 'Ling Ying Wei',
+        age: '25-30',
+        address: 'China',
+      },
+      {
+        key: '3',
+        id: '3',
+        username: 'Viper',
+        fullname: 'Sabine Callas',
+        age: '30-35',
+        address: 'United States',
+      },
+      {
+        key: '4',
+        id: '4',
+        username: 'Raze',
+        fullname: 'Tayane Alves',
+        age: '20-25',
+        address: 'Brazil',
+      },
+      {
+          key: '5',
+          id: '5',
+          username: 'Killjoy',
+          fullname: 'Klara Böhringer',
+          age: ' 20-25',
+          address: 'Germany',
+        },
+        {
+          key: '6',
+          id: '6',
+          username: 'Skye',
+          fullname: 'Kirra Foster',
+          age: '25-30',
+          address: 'Australia',
+        },
+        {
+            key: '7',
+            id: '7',
+            username: 'Reyna',
+            fullname: 'Zyanya Mondragon',
+            age: '25-30',
+            address: 'Mexico',
+          },
+          {
+            key: '8',
+            id: '8',
+            username: 'Astra',
+            fullname: 'Efia Danso ',
+            age: '25-30',
+            address: ' Ghana',
+          },
+          {
+            key: '9',
+            id: '9',
+            username: 'Neon ',
+            fullname: 'Tala Nicole Dimaapi Valdez',
+            age: '20-25',
+            address: ' Philippines',
+          },
+          {
+            key: '10',
+            id: '10',
+            username: 'Fade',
+            fullname: '	Hazal Eyletmez',
+            age: '25-30',
+            address: 'Turkey',
+          },
+        
+    ],
+    count:10
+  };
+    export default Item
